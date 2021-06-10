@@ -1,2 +1,0 @@
-# ncframework
-Simple php framework
